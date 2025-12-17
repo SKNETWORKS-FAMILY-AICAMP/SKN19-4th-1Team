@@ -247,7 +247,17 @@ https://www.notion.so/2c40413479c480458e42ebb6e116eef1
 
 ## 6. 화면 정의서
 
-<img width="1171" height="697" alt="Image" src="https://github.com/user-attachments/assets/aa9b4107-e7db-4636-9e1d-0bf08622d1ee" />
+<img width="1171" height="697" alt="image" src="https://github.com/user-attachments/assets/3fad3814-d489-45f9-8803-8ea5fc6621e0" />
+<img width="1171" height="697" alt="image" src="https://github.com/user-attachments/assets/5c6954bd-58b1-44c3-b4ce-f1ab09041a6e" />
+<img width="1171" height="697" alt="image" src="https://github.com/user-attachments/assets/ca0b2483-8712-4fb6-ab98-c4928c521685" />
+<img width="1171" height="697" alt="image" src="https://github.com/user-attachments/assets/c928c63c-bc67-46e9-b4f0-20c9a69070c3" />
+<img width="1171" height="697" alt="image" src="https://github.com/user-attachments/assets/9af31ae6-01e7-44b9-91d6-748278655899" />
+<img width="1171" height="697" alt="image" src="https://github.com/user-attachments/assets/567eb2f1-ad0e-44cc-8469-9d3caec9fbf8" />
+<img width="1171" height="697" alt="image" src="https://github.com/user-attachments/assets/3f922093-ecdd-4376-9481-a4da857bb1a0" />
+<img width="1171" height="697" alt="image" src="https://github.com/user-attachments/assets/7494781f-ae91-456c-a084-4f735a64af50" />
+<img width="1171" height="697" alt="image" src="https://github.com/user-attachments/assets/c529d05d-1930-4303-8551-a5128cb2ba9f" />
+<img width="1171" height="697" alt="image" src="https://github.com/user-attachments/assets/f8ad5c21-068c-4c73-8be5-d6fdf5678500" />
+
 https://www.notion.so/2c50413479c48013b5add94ede499652
 
 ---
