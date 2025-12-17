@@ -559,7 +559,7 @@ https://www.notion.so/2cb0413479c4800aae5ae66665d29c51
 <img width="1061" height="297" alt="Image" src="https://github.com/user-attachments/assets/34d01845-134d-40ee-b63a-6d1c22b2c3a4" />
 <img width="800" height="748" alt="Image" src="https://github.com/user-attachments/assets/2fd8f057-34be-4590-868f-c79f515b62cf" />
 <img width="800" height="802" alt="Image" src="https://github.com/user-attachments/assets/0a393074-ae16-4108-b11b-a1a3314111ff" />
-<img width="1061" height="243" alt="Image" src="https://github.com/user-attachments/assets/ae63a13a-9c4e-43d8-8347-6b896f1f83b6" />
+<img width="800" height="243" alt="Image" src="https://github.com/user-attachments/assets/ae63a13a-9c4e-43d8-8347-6b896f1f83b6" />
 
 
 | [Notion](https://www.notion.so/2cc0413479c480fab4b0f122297a40ea)
