@@ -542,10 +542,10 @@ https://www.notion.so/2cb0413479c4800aae5ae66665d29c51
 
 ## 13. 테스트 계획 및 결과
 
-<img width="884" height="255" alt="Image" src="https://github.com/user-attachments/assets/aa31dbc2-c109-492e-a7d9-d02889733cd8" />
-<img width="827" height="923" alt="Image" src="https://github.com/user-attachments/assets/3e5011f8-f1f9-4fb0-a0bc-1061373a4d59" />
-<img width="669" height="789" alt="Image" src="https://github.com/user-attachments/assets/daf04329-948d-43de-870a-6074b24bb55b" />
-<img width="902" height="273" alt="Image" src="https://github.com/user-attachments/assets/37af1969-437f-4b7a-b92d-4c7c086b10e9" />
+<img width="1061" height="297" alt="Image" src="https://github.com/user-attachments/assets/34d01845-134d-40ee-b63a-6d1c22b2c3a4" />
+<img width="712" height="748" alt="Image" src="https://github.com/user-attachments/assets/2fd8f057-34be-4590-868f-c79f515b62cf" />
+<img width="716" height="802" alt="Image" src="https://github.com/user-attachments/assets/0a393074-ae16-4108-b11b-a1a3314111ff" />
+<img width="817" height="243" alt="Image" src="https://github.com/user-attachments/assets/ae63a13a-9c4e-43d8-8347-6b896f1f83b6" />
 
 
 | [Notion](https://www.notion.so/2cc0413479c480fab4b0f122297a40ea)
