@@ -542,9 +542,10 @@ https://www.notion.so/2cb0413479c4800aae5ae66665d29c51
 
 ## 13. 테스트 계획 및 결과
 
-<img width="534" height="794" alt="image" src="https://github.com/user-attachments/assets/fe50a3b7-bb35-4ba2-816c-057a6146fd7a" />
-<img width="548" height="636" alt="image" src="https://github.com/user-attachments/assets/4d83adc0-165e-4ad1-8caa-a80570748f6d" />
-<img width="532" height="188" alt="image" src="https://github.com/user-attachments/assets/523720cf-aa36-4495-8d43-b48afd856bff" />
+<img width="884" height="255" alt="Image" src="https://github.com/user-attachments/assets/aa31dbc2-c109-492e-a7d9-d02889733cd8" />
+<img width="682" height="792" alt="Image" src="https://github.com/user-attachments/assets/33856b79-cca6-46c2-beaa-5c1ab61497b9" />
+<img width="669" height="789" alt="Image" src="https://github.com/user-attachments/assets/daf04329-948d-43de-870a-6074b24bb55b" />
+<img width="902" height="273" alt="Image" src="https://github.com/user-attachments/assets/37af1969-437f-4b7a-b92d-4c7c086b10e9" />
 
 
 | [Notion](https://www.notion.so/2cc0413479c480fab4b0f122297a40ea)
