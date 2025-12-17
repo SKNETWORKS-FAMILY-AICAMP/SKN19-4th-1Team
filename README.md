@@ -543,7 +543,7 @@ https://www.notion.so/2cb0413479c4800aae5ae66665d29c51
 ## 13. 테스트 계획 및 결과
 
 <img width="884" height="255" alt="Image" src="https://github.com/user-attachments/assets/aa31dbc2-c109-492e-a7d9-d02889733cd8" />
-<img width="682" height="792" alt="Image" src="https://github.com/user-attachments/assets/33856b79-cca6-46c2-beaa-5c1ab61497b9" />
+<img width="827" height="923" alt="Image" src="https://github.com/user-attachments/assets/3e5011f8-f1f9-4fb0-a0bc-1061373a4d59" />
 <img width="669" height="789" alt="Image" src="https://github.com/user-attachments/assets/daf04329-948d-43de-870a-6074b24bb55b" />
 <img width="902" height="273" alt="Image" src="https://github.com/user-attachments/assets/37af1969-437f-4b7a-b92d-4c7c086b10e9" />
 
