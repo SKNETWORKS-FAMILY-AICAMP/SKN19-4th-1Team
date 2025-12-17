@@ -235,9 +235,13 @@ Unigo/
 ---
 
 ## 5. 요구사항 명세서
+<img width="884" height="709" alt="image" src="https://github.com/user-attachments/assets/fd2cbd2c-09fc-43e9-ae0e-b1a638298761" />
 
-<img width="1176" height="791" alt="Image" src="https://github.com/user-attachments/assets/f78a271f-b81e-422d-bdd2-706b0a70c1cb" />
+<img width="884" height="771" alt="image" src="https://github.com/user-attachments/assets/762b32bc-394c-41c1-a942-04e8c3dad2e4" />
+<img width="881" height="94" alt="image" src="https://github.com/user-attachments/assets/3352f514-9e83-44ae-8aef-ae73b0aeeeb6" />
+
 https://www.notion.so/2c40413479c480458e42ebb6e116eef1
+
 
 ---
 
