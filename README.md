@@ -244,7 +244,7 @@ https://www.notion.so/2c40413479c480458e42ebb6e116eef1
 ## 6. 화면 정의서
 
 <img width="1171" height="697" alt="Image" src="https://github.com/user-attachments/assets/aa9b4107-e7db-4636-9e1d-0bf08622d1ee" />
-https://www.figma.com/design/EQooVBPUshPncXDORTfJhB/%EC%9C%A0%EB%8B%88%EA%B3%A0?node-id=0-1&p=f&t=aAT9BriN4yCgShcK-0
+https://www.notion.so/2c50413479c48013b5add94ede499652
 
 ---
 
